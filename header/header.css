@@ -1,22 +1,23 @@
 header{
   width: 120rem;
   margin: auto;
-  height:8rem;
-  background-color: brown;
+  height:8rem;  
+  background-color: rgb(89, 187, 204);
   border-bottom:1px solid cornsilk;
+
   
   display: flex;
   align-items: center;
   padding:0 1rem;
 }
 
-header .box_img{
+header .box_imagen{
   width:6rem;
   height:6rem;
 }
 
-header .box_img img{
-  width:100%;
+header .box_imagen img{
+  width:200%;
   height:100%;
   object-fit:cover;
 }
